@@ -1,10 +1,10 @@
 
-<h1 align="center">< 👋 Hello World! I'm Shraddha Pande/> </h1>
+<h1 align="center"> 👋 Hello World, I'm Shraddha! </h1>
 <h3 align="center"> A self motivated tech enthusiatic who wants to create magic with 0's and 1's!!</h3>
 
  <br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" height="250" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style ="vertical-align:bottom">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left"> A little more about me: </h3>
-
+ 
 - 🏢 I'm currently working at ** DELL EMC **
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
