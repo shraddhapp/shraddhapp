@@ -29,7 +29,7 @@
  - 💻 I work using:
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![GitLab](https://img.shields.io/badge/VisualStudio-VisualStudio-brightgreen1&logo=gitlab)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=jenkins)
   
 - 🌱 Learning all about:
   ![DataScience](https://img.shields.io/badge/-DataScience-E10098?style=plastic&logo=DataScience)
