@@ -1,5 +1,5 @@
 
-<h1 align="center"> 👋 Hello World, I'm Shraddha! </h1>
+<h1 align="center"> Namste World, I'm Shraddha! </h1>
 <h3 align="center"> A self motivated tech enthusiatic who wants to create magic with 0's and 1's!!</h3>
 
  <br>
