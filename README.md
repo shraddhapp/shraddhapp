@@ -16,7 +16,7 @@
  
 - 🏢 I'm currently working at ** Druva Softwares **
 - 🚀 I use daily:
-  ![AWS](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=aws)
+  ![AWS](https://img.shields.io/badge/-AWS-black?style=plastic&logo=aws)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
