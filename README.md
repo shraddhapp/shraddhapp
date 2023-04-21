@@ -14,9 +14,9 @@
 
 <h3 align="left"> A little more about me: </h3>
  
-- 🏢 I'm currently working at ** DELL EMC **
+- 🏢 I'm currently working at ** Druva Softwares **
 - 🚀 I use daily:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![AWS](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=aws)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
